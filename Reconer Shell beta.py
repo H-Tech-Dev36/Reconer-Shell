@@ -109,11 +109,11 @@ def loopback():
         print('''Contributors :
         Concept :
         CanardCoinCoin [ @Canrdcoincoin#7086 ]
-        H-Tech-Dev36 [ @Le Théoricien#5962]
+        H-Tech-Dev36 [ @Le Théoricien#2012]
         Logo :
         CanardCoinCoin le Bg
         Code :
-        H-Tech-Dev36 [ @Le Théoricien#++++ ]        
+        H-Tech-Dev36 [ @Le Théoricien#2012 ]        
         Tradution [FR|EN]
         Canardcoincoin
         ...............
