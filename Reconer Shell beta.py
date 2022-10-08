@@ -92,7 +92,7 @@ def loopback():
         print("quitting ["+device+"]")
         import time
         time.sleep(1)
-        print("cleaning cach ...")
+        print("cleaning cache ...")
         time.sleep(2)
         quit()
     elif command == "Xport-nmap-dvs":
@@ -108,12 +108,11 @@ def loopback():
     elif command == "cont-pge":
         print('''Contributors :
         Concept :
-        CanardCoinCoin [ @Canrdcoincoin#7086 ]
-        H-Tech-Dev36 [ @Le Théoricien#2012]
+        H-Tech-Dev36 [ Prof Chen#0193 ]
         Logo :
         CanardCoinCoin le Bg
         Code :
-        H-Tech-Dev36 [ @Le Théoricien#2012 ]        
+        H-Tech-Dev36 [ Prof Chen#0193 ]        
         Tradution [FR|EN]
         Canardcoincoin
         ...............
